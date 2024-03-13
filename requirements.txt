@@ -1,0 +1,4 @@
+mechanize
+facebook-sdk
+bs4
+gunicorn
